@@ -121,6 +121,17 @@ In a production environment, this application could be monitored using:
    - Regular health checks to ensure the API and database are responsive
    - Kubernetes liveness and readiness probes
 
-## License
+## 📘 Project Overview & Technical Information
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Get a high-level understanding of the project's purpose, architecture, and technical components. This overview covers:
+
+- Project goals and vision
+- System architecture
+- Key technologies and frameworks used
+- Design decisions and best practices
+
+🎥 **Watch the full overview on Loom:**
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/50a8f46efffe47fb971b2993b205ff06-with-play.gif)](https://www.loom.com/share/50a8f46efffe47fb971b2993b205ff06?sid=265bcdbc-6faf-4aee-b8d2-4cc972aece0e)
+
+> Click the thumbnail above to watch a detailed walkthrough on Loom.
