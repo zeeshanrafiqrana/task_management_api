@@ -1,5 +1,6 @@
 from pydantic_settings import BaseSettings
 from typing import Optional
+from pydantic import ConfigDict
 from dotenv import load_dotenv
 load_dotenv()
 
@@ -16,9 +17,10 @@ class Settings(BaseSettings):
     
     DATABASE_URL: Optional[str] = None
     
-    class Config:
-        env_file = ".env"
-        case_sensitive = True
+    model_config = ConfigDict(
+        env_file=".env",
+        case_sensitive=True,
+    )
     
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
