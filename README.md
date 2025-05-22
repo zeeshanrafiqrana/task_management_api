@@ -130,8 +130,4 @@ Get a high-level understanding of the project's purpose, architecture, and techn
 - Key technologies and frameworks used
 - Design decisions and best practices
 
-🎥 **Watch the full overview on Loom:**
-
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/50a8f46efffe47fb971b2993b205ff06-with-play.gif)](https://www.loom.com/share/50a8f46efffe47fb971b2993b205ff06?sid=265bcdbc-6faf-4aee-b8d2-4cc972aece0e)
-
-> Click the thumbnail above to watch a detailed walkthrough on Loom.
+🎥 [Watch the full overview on Loom](https://www.loom.com/share/50a8f46efffe47fb971b2993b205ff06?sid=265bcdbc-6faf-4aee-b8d2-4cc972aece0e)
